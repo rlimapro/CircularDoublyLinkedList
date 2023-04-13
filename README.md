@@ -1,5 +1,13 @@
 # Circular Doubly Linked List with Sentinel node
 
+## Descrição
+A estrutura de dados desenvolvida é uma lista duplamente encadeada, mais
+especificamente, uma lista circular duplamente encadeada. Para este projeto, foi
+requisitado que houvesse um nó sentinela para demarcar o início e o fim da lista. A
+imagem abaixo representa a estrutura de dados descrita.
+
+![Captura de tela de 2023-04-13 20-21-03](https://user-images.githubusercontent.com/107145885/231903387-7b5caca1-9df3-446b-bebe-a1fb875ac322.png)
+
 ## Operações 
 Comando   | Significado
 --------- | ------
