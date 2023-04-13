@@ -15,7 +15,7 @@ front _n_       | retorna o primeiro elemento da lista _n_
 back _n_        | retorna o último elemento da lista _n_
 popFront _n_    | remove o primeiro elemento da lista _n_
 popBack _n_     | remove o último elemento da lista _n_
-insertAt _x_ y _n_| insere o elemento _x_ no índice y da lista _n_
+insertAt _x_ _y_ _n_| insere o elemento _x_ no índice y da lista _n_
 removeAt _x_ _n_  | remove o elemento do índice _x_ da lista _n_
 removeAll _x_ _n_ | remove todos as ocorrências de _x_ da lista _n_
 swap _x_ _y_        | troca os elementos da lista _x_ com a _y_
