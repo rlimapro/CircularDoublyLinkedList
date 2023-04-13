@@ -25,3 +25,8 @@ append _n_ _a1_.._an_ | adiciona os elementos a1,..., an ao final da lista _n_
 equals _x_ _y_      | retorna se as listas _x_ e _y_ são iguais ou não
 reverse _n_       | Inverte a ordem dos elementos da lista _n_
 merge _x_ _y_       | intercala os elementos da lista _x_ e _y_ em _x_
+
+
+## Referências 
+* [GeekForGeeks](https://www.geeksforgeeks.org/insertion-in-doubly-circular-linked-list/)
+* [Doubly Linked List - by Brad Vander Zanden](http://web.eecs.utk.edu/~bvanderz/teaching/cs140Fa10/notes/Dllists/)
