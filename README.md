@@ -9,8 +9,8 @@ show            | imprime na tela todas as listas
 empty _n_       | retorna se a lista _n_ está vazia ou não
 size _n_        | retorna o número de elementos da lista _n_
 clear _n_       | esvazia a lista _n_
-pushFront _x_ _n_ | adiciona o elemento x no inicio da lista _n_
-pushBack x _n_  | adiciona o elemento x no final da lista _n_
+pushFront _x_ _n_ | adiciona o elemento _x_ no inicio da lista _n_
+pushBack _x_ _n_  | adiciona o elemento _x_ no final da lista _n_
 front _n_       | retorna o primeiro elemento da lista _n_
 back _n_        | retorna o último elemento da lista _n_
 popFront _n_    | remove o primeiro elemento da lista _n_
